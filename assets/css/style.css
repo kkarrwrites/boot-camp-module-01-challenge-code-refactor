@@ -1,9 +1,12 @@
+/* Resets Starts */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/* Resets Ends */
 
+/* Styling Starts */
 body {
     background-color: #d9dcd6;
 }
@@ -19,9 +22,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
+/* Styling Ends */
 
 .header h1 .seo {
     color: #d9dcd6;
+/* Header Starts */
 }
 
 .header div {
@@ -49,7 +54,9 @@ a {
 p {
     font-size: 16px;
 }
+/* Header Ends */
 
+/* Hero Image Starts */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,10 +65,12 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Image Ends */
 
 .float-left {
     float: left;
     margin-right: 25px;
+/* Conent Starts */
 }
 
 .float-right {
@@ -127,11 +136,13 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Conent Ends */
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+/* Benefits Starts */
 }
 
 .search-engine-optimization {
@@ -187,7 +198,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Benefits Ends */
 
+/* Footer Starts */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +211,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Ends */
