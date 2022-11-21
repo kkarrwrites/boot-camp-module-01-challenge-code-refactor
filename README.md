@@ -18,4 +18,4 @@ HTML, CSS, Git, GitHub, VS Code, Chrome, Firefox
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
