@@ -1,4 +1,4 @@
-# Boot Camp - Module 1 Challenge
+# Boot Camp - Module 1 Challenge - HTML CSS Git Challenge: Code Refactor
 
 ## About
 
