@@ -29,6 +29,7 @@ This project is licensed under the MIT License.
 ## Resources
 
 - [Alternate Text for Background Images](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) by David MacDonald on CanAdapt
+- [CSS Comment Example – How To Comment Out CSS](https://www.freecodecamp.org/news/comments-in-css/) on freeCodeCamp
 - [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) by Hillary Nyakundi on freeCodeCamp
 - [Semantic HTML5 Elements Explained](https://www.freecodecamp.org/news/semantic-html5-elements/) on freeCodeCamp
 - [You Need to Stop Targeting Tags in CSS](https://frontstuff.io/you-need-to-stop-targeting-tags-in-css) by Sarah Dayan on frontstuff
