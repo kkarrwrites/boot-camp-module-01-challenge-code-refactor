@@ -30,6 +30,9 @@ This project is licensed under the MIT License.
 
 - [Alternate Text for Background Images](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) by David MacDonald on CanAdapt
 - [CSS Comment Example – How To Comment Out CSS](https://www.freecodecamp.org/news/comments-in-css/) on freeCodeCamp
+- [Emojis and Accessibility: The Dos and Don’ts of Including Emojis in Texts and Emails](https://blog.easterseals.com/emojis-and-accessibility-the-dos-and-donts-of-including-emojis-in-texts-and-emails/) by Beth on Easterseals Blog
+- [How to Make Emojis Accessible in HTML](https://devyarns.com/accessible-emojis/) by Rachel Leggett on DevYarns
 - [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) by Hillary Nyakundi on freeCodeCamp
 - [Semantic HTML5 Elements Explained](https://www.freecodecamp.org/news/semantic-html5-elements/) on freeCodeCamp
+- [Why You Should Choose HTML5 article Over section](https://www.smashingmagazine.com/2020/01/html5-article-section/) by Bruce Lawsone on Smashing Magazine
 - [You Need to Stop Targeting Tags in CSS](https://frontstuff.io/you-need-to-stop-targeting-tags-in-css) by Sarah Dayan on frontstuff
