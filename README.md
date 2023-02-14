@@ -2,7 +2,7 @@
 
 ## About
 
-An HTML, CSS, Git, and accessibility code refactor challenge for UConn Boot Camp.
+An HTML, CSS, Git, and accessibility code refactor challenge for Full Stack Coding Boot Camp.
 
 ## Description
 
