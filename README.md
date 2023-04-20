@@ -20,7 +20,7 @@ HTML, CSS, Git, GitHub, VS Code, Chrome, Firefox
 
 ## Deployment
 
-[GitHub Pages](https://kkarrwrites.github.io/boot-camp-module-01-challenge/)
+[GitHub Pages](https://kkarrwrites.github.io/boot-camp-module-01-challenge-code-refactor/)
 
 ## License
 
